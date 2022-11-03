@@ -1,6 +1,9 @@
 {
   "name": "fcc-learn-node-with-express",
+  "author": "javi",
   "version": "0.1.0",
+	"description": "first project for back end certificate",
+	"keywords": ["freecodecamp","back end","java","javi"],
   "dependencies": {
     "body-parser": "^1.15.2",
     "cookie-parser": "^1.4.3",
